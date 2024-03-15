@@ -1,0 +1,6 @@
+myenv/
+.env.example
+encodings.pickle
+
+
+image.jpg
